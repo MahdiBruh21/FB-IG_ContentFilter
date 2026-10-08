@@ -1,0 +1,14 @@
+# Environment / credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs & local data
+*.log
+data/
+.DS_Store
